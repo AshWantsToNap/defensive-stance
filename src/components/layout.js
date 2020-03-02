@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import logo from "../../content/assets/logo.png"
 
 const Layout = props => {
   const { title, children } = props
@@ -29,6 +30,9 @@ const Layout = props => {
               {/* <li className="nav-home nav-current" role="menuitem">
                 <Link to={`/`}>Home</Link>
               </li> */}
+              <li className="nav-logo" role="menuitem">
+                <img src={logo} alt="happy shield logo" width="50" />
+              </li>
               <li className="nav-about" role="menuitem">
                 <Link to={`/about`}>About</Link>
               </li>

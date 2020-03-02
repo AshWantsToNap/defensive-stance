@@ -5,7 +5,7 @@ description: An easy exercise to try passive recon on yourself.
 thumbnail: ./niti-k-Ie430IZPF90-unsplash.jpg
 tags: [OSINT,security,lab]
 ---
-<small>Photo by <a href="https://unsplash.com/@inhalexhale"> Niti K. on Unsplash</a></small>
+<small>Photo by <a href="https://unsplash.com/@inhalexhale"  target="_blank" rel="noopener noreferrer">Niti K. on Unsplash</a></small>
 
 Passive reconnaissance is done by gathering Open Source Intelligence (OSINT) information about a target without directly interacting with it. OSINT is information from third parties that is collected in a legitimate way. In general, the two terms are used interchangeably. 
 
