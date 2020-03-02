@@ -25,11 +25,10 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in Osaka
-              building useful things.
+              Written by <strong>{author}</strong> who is a full-time Cyber Security Analyst and half-time student pursuing a degree in Software Development and Security at UMGC. 
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                You should follow her on Twitter
               </a>
             </p>
           </section>

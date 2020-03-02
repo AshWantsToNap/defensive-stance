@@ -1,9 +1,9 @@
 module.exports = {
-  name: 'London Night and Day',
-  shortName: '',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
-  url: 'https://www.jooplaan.com', // Domain of your site without prefix!
+  name: 'Defensive Stance',
+  shortName: 'DS',
+  description: 'A blog and portfolio for Amy Heyen',
+  url: 'https://www.defensive-stance.com', // Domain of your site without prefix!
   prefix: '/',
-  author: 'jooplaan',
-  twitter: ''
+  author: 'Amy Heyen',
+  twitter: 'amyheyen'
 }

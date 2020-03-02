@@ -7,8 +7,52 @@
     animation: slideUp 0.9s cubic-bezier(0.075, 0.82, 0.165, 1) forwards;
     transform: translate3d(0, 4vh, 0);
 }
+
 html.is-animating .transition-fade {
     opacity: 0;
+}
+
+.projects-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  flex-flow: row nowrap; 
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.simple-trans-main > div {
+  cursor: pointer;
+  position: absolute;
+  width: 225px;
+  height: 225px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 10px 30px -5px rgba(0, 0, 0, 0.3);
+  transition: box-shadow 0.5s;
+  will-change: transform;
+  border: 15px solid white;
+  color: darkslategray;
+  font-size: 120%;
+  will-change: transform, opacity;
+  text-shadow: 0 2px 40px #00000020, 0 2px 5px #00000030;
+}
+
+.spinner {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto 25px;
+  align-items: center;
+  color: black;
+  font-size: 120%;
+  background-image: url('./d20-blank-transparent.png');
+  background-size: 100px 100px;
 }
 
 @keyframes slideUp {

@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-
+import Spinner from "../components/spinner"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -12,8 +12,13 @@ class NotFoundPage extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="404: Not Found" />
-        <h1>Not Found</h1>
-        <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+        <h1 style={{ textAlign: `center`}}>404: Not Found</h1>
+        <div style={{ textAlign: `center`, alignItems: `center` }}>
+          <Spinner />
+            <p>Oops, we rolled a critical failure on our perception skill check.</p>
+            <p>We could not find that page for you.</p>
+            <p><a href="/">Return home and try again.</a></p>
+        </div>
       </Layout>
     )
   }
