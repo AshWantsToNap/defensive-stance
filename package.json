@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-london-after-midnight",
+  "name": "defensive-stance",
   "private": true,
-  "description": "A custom, image-centric theme for Gatsby",
-  "version": "1.0.2",
-  "author": "Vaporwavy <i@ttv8.me> (https://vaporwavy.io)",
+  "description": "A personal blog and portfolio for Amy Heyen.",
+  "version": "2.0.0",
+  "author": "Amy Heyen",
   "bugs": {
-    "url": "https://github.com/vaporwavy/gatsby-london-after-midnight/issues"
+    "url": "https://github.com/amyheyen/defensive-stance/issues"
   },
   "dependencies": {
     "gatsby": "^2.4.2",
