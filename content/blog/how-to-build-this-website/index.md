@@ -3,8 +3,9 @@ title: How to Build this Website
 date: 2020-02-07
 description: A summary of my goals for this website and how I achieved them.
 tags: [development,gatsbyjs,aws]
+thumbnail: ./yusuf-evli-Y82YTEmID68-unsplash.jpg
 ---
-![How to Build This Website](./how-to-build-this-website.png)
+<small>Photo by <a href="https://unsplash.com/@yusufevli" target="_blank" rel="noopener noreferrer">Yusuf Evli on Unsplash</a></small>
 
 It was time for me to get off of my free WordPress site and work on my development and operations skills. The last time I experimented with making and hosting my own website was when I was in high school making gaming guild websites on GeoCities. So I had a lot to learn. Consider me a complete newbie here. 
 

@@ -2,10 +2,10 @@
 title: Nmap & Wireshark Virtual Lab
 date: 2019-05-25
 description: A lab exercise for cyber security students to use nmap and wireshark tools.
-thumbnail: ./yusuf-evli-Y82YTEmID68-unsplash.jpg
+thumbnail: ./gerald-schombs-DaVQjXGi9Xw-unsplash.jpg
 tags: [nmap,wireshark,security,lab]
 ---
-<small>Photo by <a href="https://unsplash.com/@yusufevli" target="_blank" rel="noopener noreferrer">Yusuf Evli on Unsplash</a></small>
+<small>Photo by <a href="https://unsplash.com/@geerald" target="_blank" rel="noopener noreferrer">Gerald Schömbs on Unsplash</a></small>
 
 Nmap and Wireshark are both tools referenced in the Threat Management section of of CySA+. I noticed in my virtual lab it has you do a lot of Nmap commands with different options but didn’t really get into the different reasons you might use that command. In the free [Cybrary CySA+ videos](https://www.cybrary.it/course/comptia-csa-threat-management/), the instructor, Mohamed Atef, runs a couple Nmap techniques while running Wireshark and was able to see the resulting packets in [this lecture](https://www.cybrary.it/video/advanced-scanning-techniques/). I found this useful in providing context to the tools and education so far.
 
