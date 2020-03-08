@@ -10,7 +10,7 @@ tags: [kali,lab,firewalk,tools]
 <blockquote>This is the sacred Sanghyang Djaran. A classical Balinese performance, told through fire and trance dance. The barefoot horse man moves around and through a bonfire made from coconut husks, kicking and dancing in a state of trance. I was excited to travel to Indonesia to explore it’s abundant greenery and beautiful environments… I never knew I’d stumble across something this magical.</blockquote></small>
 
 
-<center><img alt="Firewalk logo with low resolution fire effect" src="http://packetfactory.openwall.net/projects/firewalk/firewalk.gif" />
+<center><img alt="Firewalk logo with low resolution fire effect" src="./firewalk.gif" />
 </center>
 
 <small><i>Yes, that really is the logo taken directly from the website and yes, it does have that amazing Geocities vibe.</i></small>
