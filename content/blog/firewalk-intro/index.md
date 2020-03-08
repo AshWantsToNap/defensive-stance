@@ -1,6 +1,6 @@
 ---
 title: Firewalk Tool Intro
-date: "2020-01-04"
+date: "2020-03-07"
 thumbnail: ./joshua-newton-RPUI6gtn49g-unsplash.jpg
 description: A lab and introduction to the Firewalk tool.
 tags: [kali,lab,firewalk,tools]
