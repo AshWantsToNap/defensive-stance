@@ -269,7 +269,7 @@ expire vector. I'm going to be honest here and say I could not figure out the us
 
 ### But can't nmap do all that?<a name="nmap"></a>
 
-Yep, but Firewalk is a much simpler tool for beginners and effective for it's purpose of firewall port discovery. Getting the same result in nmap:
+Yep, but Firewalk is a much simpler tool for beginners and effective for its purpose of firewall port discovery. Getting the same result in nmap:
 
     root@kali:~# nmap -p 80,443 192.168.68.12
 
